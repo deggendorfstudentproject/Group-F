@@ -1,0 +1,6 @@
+vaccination data from 16 states
+confirmation message for every action performed
+data categorised under states and further under districts and then under individual vaccination centres
+dummy data to be entered
+each entry requires name, gender, age, date of first vaccination, date of second vaccination, vaccination brand
+search function under name, vaccination brand, date of vaccination
