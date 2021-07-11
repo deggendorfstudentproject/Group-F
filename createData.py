@@ -7,7 +7,7 @@ def _createDatabase():
     conn = sqlite3.connect("customers.db")
     c = conn.cursor()
     c.execute(
-        """ CREATE TABLE IF NOT EXISTS customer (
+        """ CREATE TABLE IF NOT EXISTS customers (
     first text,
     last text,
     sex text,
